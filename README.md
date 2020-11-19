@@ -51,7 +51,7 @@
 
 
 
-[website]: https://yassinetakedd.netlify.app
+[website]: https://yassinetakedd.netlify.app 
 [twitter]: https://twitter.com/TakeddineY
 [linkedin]: https://www.linkedin.com/in/yassine-takeddine
 [course]: https://github.com/YassineTk/React-Chakra-Portfolio
