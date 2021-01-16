@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=yassinetakedd.netlify.app&style=for-the-badge&url=https%3A%2F%2Fyassinetakedd.netlify.app)](https://yassinetakedd.netlify.app/)
 
 
-## Full Stack JavaScript Developer | Astronomie Enthusiast
+## Front End Developer
 
 
 - 🔭 Launched an open source developers potfolio [React-Chakra-Portfolio][course]
