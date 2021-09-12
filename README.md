@@ -7,7 +7,7 @@
 
 
 - 🔭 Launched an open source developers potfolio [React-Chakra-Portfolio][course]
-- 🌱 Currently Self Taught on the JavaScript Stack
+- 🌱 Currently Working as a Front End Developer
 
 
 
