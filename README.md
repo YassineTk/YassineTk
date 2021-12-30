@@ -6,7 +6,6 @@
 ## Front End Developer
 
 
-- 🔭 Launched an open source developers potfolio [React-Chakra-Portfolio][course]
 - 🌱 Currently Working as a Front End Developer
 
 
